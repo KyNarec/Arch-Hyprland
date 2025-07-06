@@ -1,0 +1,26 @@
+Nvidia GPU detected. Setting up proper env's
+[33m[NOTE][m kb_layout de configured in settings.  
+You chose not to change to 12H format.
+You chose ≤ 1080p resolution for better Rofi appearance.
+[33m[NOTE][m Wallpapers downloaded successfully.
+[33m[NOTE][m Wallpapers copied successfully.
+[[1m[34mI[39m[0m] [1m[35mimage[39m[0m: .wallpaper_modified
+[[1m[34mI[39m[0m] [1m[35mimage parser[39m[0m: Using [94m[1mKmeans[0m[39m backend parser
+[[1m[34mI[39m[0m] [1m[35mthreshold[39m[0m: Using a threshold of 10 in between colors.
+[[1m[34mI[39m[0m] [1m[35mcolorspace[39m[0m: Using [35m[1mLch[0m[39m colorspace variation
+[[1m[34mI[39m[0m] [1m[35mscheme palette[39m[0m: Using [94m[1mDark16[0m[39m palette
+▐⠂       ▌     0.000 s	Generating color scheme..▐⠈       ▌     0.080 s	Generating color scheme..▐ ⠂      ▌     0.160 s	Generating color scheme..▐ ⠠      ▌     0.205 s	Generating color scheme..[2K[[1m[34mI[39m[0m] Not enough colors in the image, artificially generating new colors...
+[[1m[34mI[39m[0m] [1m[35mfallback generation method[39m[0m: Using [34mInterpolate[39m to fill the palette
+[[1m[34mI[39m[0m] Color scheme palette generated!
+
+[48;2;3;5;8m    [49m[48;2;12;21;35m    [49m[48;2;42;56;89m    [49m[48;2;50;65;102m    [49m[48;2;32;95;54m    [49m[48;2;17;96;107m    [49m[48;2;104;80;102m    [49m[48;2;188;173;187m    [49m
+[48;2;132;121;131m    [49m[48;2;16;28;47m    [49m[48;2;56;75;118m    [49m[48;2;66;87;136m    [49m[48;2;43;127;72m    [49m[48;2;22;128;143m    [49m[48;2;138;107;136m    [49m[48;2;188;173;187m    [49m
+
+[[1m[34mI[39m[0m] [1m[35mtemplates[39m[0m: Writing templates..
+  * Templated [1mhypr[0m to '[3m~/.config/hypr/wallust/wallust-hyprland.conf[0m'
+  * Templated [1mrofi[0m to '[3m~/.config/rofi/wallust/colors-rofi.rasi[0m'
+  * Templated [1mcava[0m to '[3m~/.config/cava/config[0m'
+  * Templated [1mwaybar[0m to '[3m~/.config/waybar/wallust/colors-waybar.css[0m'
+[[1m[34mI[39m[0m] [1m[35mcache[39m[0m: Saving scheme to cache.
+
+[5m[1m[38;2;188;173;187mE [39m[0m[0m[5m[1m[38;2;138;107;136mN [39m[0m[0m[5m[1m[38;2;22;128;143mJ [39m[0m[0m[5m[1m[38;2;43;127;72mO [39m[0m[0m[5m[1m[38;2;66;87;136mY [39m[0m[0m[9m  [0m[5m[1m[38;2;56;75;118mT [39m[0m[0m[5m[1m[38;2;16;28;47mH [39m[0m[0m[5m[1m[38;2;132;121;131mE [39m[0m[0m[9m  [0m[5m[1m[38;2;188;173;187mP [39m[0m[0m[5m[1m[38;2;104;80;102mA [39m[0m[0m[5m[1m[38;2;17;96;107mL [39m[0m[0m[5m[1m[38;2;32;95;54mE [39m[0m[0m[5m[1m[38;2;50;65;102mT [39m[0m[0m[5m[1m[38;2;42;56;89mT [39m[0m[0m[5m[1m[38;2;12;21;35mE [39m[0m[0m[5m[1m[38;2;214;203;213m! [39m[0m[0m
